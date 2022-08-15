@@ -8,4 +8,4 @@
 
 ## 目录
 
-1. [Scripts 脚本](./dosc/scripts/index.md)
+1. [Scripts 脚本](./docs/scripts/index.md)

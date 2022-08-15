@@ -1,0 +1,8 @@
+{
+	"name": "awesome-npm",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "git@github.com:A-floweR-y/awesome-npm.git",
+	"author": "y.yang <y.yang@lunarax.io>",
+	"license": "MIT"
+}
