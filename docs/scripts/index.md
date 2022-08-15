@@ -1,4 +1,4 @@
 # NPM Scripts
 
 ## 目录
-1. [preinstall](./docs/scripts/preinstall.md)
+1. [preinstall](./preinstall.md)

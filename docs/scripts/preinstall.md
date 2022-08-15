@@ -55,3 +55,5 @@ $ node index.js
 
 [1/4] 🔍  Resolving packages...
 ```
+
+[Demo 地址](../../src/scripts/preinstall/hello-preinstall/);
